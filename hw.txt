@@ -1,0 +1,22 @@
+﻿CPUID CPU Name	AMD Ryzen 5 1600 Six-Core Processor
+
+AMD Radeon RX 560 (Polaris 21)	Video Adapter
+
+Motherboard Chipset	B450
+
+Realtek ALC892 @ AMD K17 - High Definition Audio Controller	PCI
+
+ATI Radeon HDMI @ AMD Baffin/Lexa - High Definition Audio Controller	PCI
+
+Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter (PHY: Realtek RTL8111)	PCI
+
+KINGSTON SKC2500M8500G
+
+
+
+Type:         iMacPro1,1
+Serial:       C02XR5Z4HX87
+Board Serial: C028488024NJG36AD
+SmUUID:       0AF64980-F347-4405-BCB2-58D23DC6A6ED
+Apple ROM:    903C9262A234
+
