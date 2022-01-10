@@ -1,6 +1,6 @@
 <h1 align="center">Ryzentosh R5</h1>
 
-## :hardware: Hardware ##
+## :desktop_computer: Hardware ##
 * Ryzen 5 1600 
 * MSI B450M MORTAR
 * Corsair Vengeance LED White 16 GB 
